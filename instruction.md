@@ -1,0 +1,1 @@
+!.create a new html file setup the basic structure of a  portfolio website for a software engineer , use semantic HTML tags(Header, main, footer) and include place holder comments for each future section(Hero ,  About , skill,  Education , Project, Hero'sAI ,Contact me)
